@@ -1,0 +1,7 @@
+/home/pseudomortus/repos/T10B – Deployment Phase Using Docker/ContainerizationTest/bin/Release/net10.0/publish/ContainerizationTest
+/home/pseudomortus/repos/T10B – Deployment Phase Using Docker/ContainerizationTest/bin/Release/net10.0/publish/appsettings.Development.json
+/home/pseudomortus/repos/T10B – Deployment Phase Using Docker/ContainerizationTest/bin/Release/net10.0/publish/appsettings.json
+/home/pseudomortus/repos/T10B – Deployment Phase Using Docker/ContainerizationTest/bin/Release/net10.0/publish/ContainerizationTest.dll
+/home/pseudomortus/repos/T10B – Deployment Phase Using Docker/ContainerizationTest/bin/Release/net10.0/publish/ContainerizationTest.runtimeconfig.json
+/home/pseudomortus/repos/T10B – Deployment Phase Using Docker/ContainerizationTest/bin/Release/net10.0/publish/ContainerizationTest.pdb
+/home/pseudomortus/repos/T10B – Deployment Phase Using Docker/ContainerizationTest/bin/Release/net10.0/publish/ContainerizationTest.deps.json
